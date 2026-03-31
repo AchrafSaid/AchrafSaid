@@ -1,5 +1,5 @@
-## Hi there 👋
-
+<h1 align="centre">AshrafELNaggar</h1>
+<img src="banner.jpeg">
 <!--
 **AchrafSaid/AchrafSaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
